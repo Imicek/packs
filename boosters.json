@@ -1,0 +1,334 @@
+[
+    {
+        "id": 1,
+        "name": "Classic"
+    },
+    {
+        "id": 3,
+        "name": "Draft Hero"
+    },
+    {
+        "id": 5,
+        "name": "Draft Common"
+    },
+    {
+        "id": 6,
+        "name": "Draft Rare"
+    },
+    {
+        "id": 9,
+        "name": "Goblins vs Gnomes"
+    },
+    {
+        "id": 10,
+        "name": "The Grand Tournament"
+    },
+    {
+        "id": 11,
+        "name": "Whispers of the Old Gods"
+    },
+    {
+        "id": 17,
+        "name": "Welcome Bundle"
+    },
+    {
+        "id": 18,
+        "name": "Classic"
+    },
+    {
+        "id": 19,
+        "name": "Mean Streets of Gadgetzan"
+    },
+    {
+        "id": 20,
+        "name": "Journey to Un'Goro"
+    },
+    {
+        "id": 21,
+        "name": "Knights of the Frozen Throne"
+    },
+    {
+        "id": 23,
+        "name": "Golden Classic"
+    },
+    {
+        "id": 30,
+        "name": "Kobolds & Catacombs"
+    },
+    {
+        "id": 31,
+        "name": "The Witchwood"
+    },
+    {
+        "id": 37,
+        "name": "Draft Hero Power"
+    },
+    {
+        "id": 38,
+        "name": "The Boomsday Project"
+    },
+    {
+        "id": 40,
+        "name": "Rastakhan's Rumble"
+    },
+    {
+        "id": 41,
+        "name": "Mammoth Bundle"
+    },
+    {
+        "id": 49,
+        "name": "Rise of Shadows"
+    },
+    {
+        "id": 128,
+        "name": "Saviors of Uldum"
+    },
+    {
+        "id": 181,
+        "name": "Welcome Bundle"
+    },
+    {
+        "id": 347,
+        "name": "Descent of Dragons"
+    },
+    {
+        "id": 423,
+        "name": "Ashes of Outland"
+    },
+    {
+        "id": 468,
+        "name": "Scholomance Academy"
+    },
+    {
+        "id": 470,
+        "name": "Hunter Pack"
+    },
+    {
+        "id": 498,
+        "name": "Year of the Dragon"
+    },
+    {
+        "id": 545,
+        "name": "Mage Pack"
+    },
+    {
+        "id": 553,
+        "name": "Forged in the Barrens"
+    },
+    {
+        "id": 602,
+        "name": "United in Stormwind"
+    },
+    {
+        "id": 603,
+        "name": "Golden Scholomance Academy"
+    },
+    {
+        "id": 616,
+        "name": "Madness at the Darkmoon Faire"
+    },
+    {
+        "id": 629,
+        "name": "Mercenaries"
+    },
+    {
+        "id": 631,
+        "name": "Druid Pack"
+    },
+    {
+        "id": 632,
+        "name": "Paladin Pack"
+    },
+    {
+        "id": 633,
+        "name": "Warrior Pack"
+    },
+    {
+        "id": 634,
+        "name": "Priest Pack"
+    },
+    {
+        "id": 635,
+        "name": "Rogue Pack"
+    },
+    {
+        "id": 636,
+        "name": "Shaman Pack"
+    },
+    {
+        "id": 637,
+        "name": "Warlock Pack"
+    },
+    {
+        "id": 638,
+        "name": "Demon Hunter Pack"
+    },
+    {
+        "id": 643,
+        "name": "Golden Madness at the Darkmoon Faire"
+    },
+    {
+        "id": 665,
+        "name": "Fractured in Alterac Valley"
+    },
+    {
+        "id": 686,
+        "name": "Golden Forged in the Barrens"
+    },
+    {
+        "id": 688,
+        "name": "Year of the Phoenix"
+    },
+    {
+        "id": 694,
+        "name": "Voyage to the Sunken City"
+    },
+    {
+        "id": 713,
+        "name": "Standard"
+    },
+    {
+        "id": 714,
+        "name": "Wild"
+    },
+    {
+        "id": 716,
+        "name": "Golden Standard"
+    },
+    {
+        "id": 722,
+        "name": "Epic Pack"
+    },
+    {
+        "id": 729,
+        "name": "Murder at Castle Nathria"
+    },
+    {
+        "id": 737,
+        "name": "Golden United in Stormwind"
+    },
+    {
+        "id": 819,
+        "name": "TITANS"
+    },
+    {
+        "id": 821,
+        "name": "March of the Lich King"
+    },
+    {
+        "id": 841,
+        "name": "Golden Fractured in Alterac Valley"
+    },
+    {
+        "id": 850,
+        "name": "Golden Voyage to the Sunken City"
+    },
+    {
+        "id": 854,
+        "name": "Festival of Legends"
+    },
+    {
+        "id": 874,
+        "name": "Golden Murder at Castle Nathria"
+    },
+    {
+        "id": 894,
+        "name": "Caverns of Time"
+    },
+    {
+        "id": 904,
+        "name": "Golden Wild"
+    },
+    {
+        "id": 918,
+        "name": "Death Knight Pack"
+    },
+    {
+        "id": 921,
+        "name": "Signature Golden March of the Lich King"
+    },
+    {
+        "id": 922,
+        "name": "Showdown in the Badlands"
+    },
+    {
+        "id": 932,
+        "name": "Golden Festival of Legends"
+    },
+    {
+        "id": 933,
+        "name": "Whizbang's Workshop"
+    },
+    {
+        "id": 937,
+        "name": "Golden TITANS"
+    },
+    {
+        "id": 938,
+        "name": "Golden Year of the Phoenix"
+    },
+    {
+        "id": 939,
+        "name": "Golden Ashes of Outland"
+    },
+    {
+        "id": 941,
+        "name": "Perils in Paradise"
+    },
+    {
+        "id": 944,
+        "name": "Showdown in the Badlands Catch-up"
+    },
+    {
+        "id": 945,
+        "name": "Golden Caverns of Time"
+    },
+    {
+        "id": 952,
+        "name": "Golden Showdown in the Badlands"
+    },
+    {
+        "id": 965,
+        "name": "The Great Dark Beyond"
+    },
+    {
+        "id": 970,
+        "name": "Golden Whizbang's Workshop"
+    },
+    {
+        "id": 971,
+        "name": "Whizbang's Workshop Catch-up"
+    },
+    {
+        "id": 975,
+        "name": "Into the Emerald Dream"
+    },
+    {
+        "id": 977,
+        "name": "Golden Perils in Paradise"
+    },
+    {
+        "id": 978,
+        "name": "Whizbang's Workshop Catch-up"
+    },
+    {
+        "id": 984,
+        "name": "Year of the Pegasus"
+    },
+    {
+        "id": 985,
+        "name": "Golden Year of the Pegasus"
+    },
+    {
+        "id": 986,
+        "name": "Golden The Great Dark Beyond"
+    },
+    {
+        "id": 987,
+        "name": "The Great Dark Beyond Catch-up"
+    },
+    {
+        "id": 990,
+        "name": "Golden Into the Emerald Dream"
+    }
+]
