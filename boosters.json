@@ -1,26 +1,38 @@
 [
     {
-        "id": 944,
-        "name": "Showdown in the Badlands Catch-up"
+        "id": 3,
+        "name": "Draft Hero"
     },
     {
-        "id": 971,
-        "name": "Whizbang's Workshop Catch-up"
+        "id": 5,
+        "name": "Draft Common"
     },
     {
-        "id": 978,
-        "name": "Whizbang's Workshop Catch-up"
+        "id": 6,
+        "name": "Draft Rare"
     },
     {
-        "id": 987,
-        "name": "The Great Dark Beyond Catch-up"
+        "id": 17,
+        "name": "Welcome Bundle"
     },
     {
-        "id": 1033,
-        "name": "Into The Emerald Dream Catch-up"
+        "id": 37,
+        "name": "Draft Hero Power"
     },
     {
-        "id": 1046,
-        "name": "The Lost City Catch-up"
+        "id": 41,
+        "name": "Mammoth Bundle"
+    },
+    {
+        "id": 181,
+        "name": "Welcome Bundle"
+    },
+    {
+        "id": 553,
+        "name": "Forged in the Barrens"
+    },
+    {
+        "id": 722,
+        "name": "Epic Pack"
     }
 ]
