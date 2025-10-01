@@ -1,38 +1,22 @@
 [
     {
-        "id": 3,
-        "name": "Draft Hero"
+        "id": 989,
+        "name": "Across the Timeways"
     },
     {
-        "id": 5,
-        "name": "Draft Common"
+        "id": 1044,
+        "name": "Year of the Raptor"
     },
     {
-        "id": 6,
-        "name": "Draft Rare"
+        "id": 1045,
+        "name": "Golden Year of the Raptor"
     },
     {
-        "id": 17,
-        "name": "Welcome Bundle"
+        "id": 1055,
+        "name": "Golden Across the Timeways"
     },
     {
-        "id": 37,
-        "name": "Draft Hero Power"
-    },
-    {
-        "id": 41,
-        "name": "Mammoth Bundle"
-    },
-    {
-        "id": 181,
-        "name": "Welcome Bundle"
-    },
-    {
-        "id": 553,
-        "name": "Forged in the Barrens"
-    },
-    {
-        "id": 722,
-        "name": "Epic Pack"
+        "id": 1056,
+        "name": "Across the Timeways Catch-up"
     }
 ]
