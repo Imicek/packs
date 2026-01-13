@@ -1,7 +1,27 @@
 [
     {
+        "id": 975,
+        "name": "Into the Emerald Dream"
+    },
+    {
+        "id": 982,
+        "name": "The Lost City"
+    },
+    {
         "id": 989,
         "name": "Across the Timeways"
+    },
+    {
+        "id": 990,
+        "name": "Golden Into the Emerald Dream"
+    },
+    {
+        "id": 1033,
+        "name": "Into The Emerald Dream Catch-up"
+    },
+    {
+        "id": 1040,
+        "name": "Golden The Lost City"
     },
     {
         "id": 1044,
@@ -10,6 +30,10 @@
     {
         "id": 1045,
         "name": "Golden Year of the Raptor"
+    },
+    {
+        "id": 1046,
+        "name": "The Lost City Catch-up"
     },
     {
         "id": 1055,
